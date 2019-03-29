@@ -22,16 +22,16 @@ So, how did we go about proving/disproving our hypothesis? We used the following
 
 The reason behind our comparison of food scarcity and unemployment rates was to get a better idea of food access within an area as well as any potential relationship with unemployment. From our findings, we noticed that when unemployment rates decrease within an area, there is more access to food. 
 
-![Unemployment heatmap](Charts/map.png)
+![Unemployment heatmap](sandbox/Charts/map.png)
 _Figure 1: Heatmap illustrating unemployment rates across the US (2015)_ 
 
-![Food Access Half](Charts/unemploymentVsFoodScarcityHalfMile.png) ![Food Access One](Charts/unemploymentVsFoodScarcityOneMile.png)
+![Food Access Half](sandbox/Charts/unemploymentVsFoodScarcityHalfMile.png) ![Food Access One](sandbox/Charts/unemploymentVsFoodScarcityOneMile.png)
 _Figure 2: Unemployment rates vs the population depending on their distance from a food source. These plots display the population within an urban area that are 0.5 miles or more,  and 1 mile or more away from food sources. P-Values: 0.349 (not correlated) & 0.00072 (correlated), respectively  (2015)_
 
 
 Looking at Figure 1, areas with higher unemployment rates are shown in red while lower rates are shown in green or areas with no colour layer. Looking at the comparison of unemployment and food access in a urban areas, we do notice that as unemployment rates increase, the number of people without access to food decreases.  Following analysis, we did find that there was no correlation for the comparison using access ½ mile or more, while there could be a correlation between a comparison of unemployment rates and food access a mile or more.
 
-![Food Access 10](Charts/unemploymentVsFoodScarcity10Miles.png) ![Food Access 20](Charts/unemploymentVsFoodScarcity20Miles.png)
+![Food Access 10](sandbox/Charts/unemploymentVsFoodScarcity10Miles.png) ![Food Access 20](sandbox/Charts/unemploymentVsFoodScarcity20Miles.png)
 _Figure 3: Unemployment rates vs the population depending on their distance from a food source. These plots display the population within a rural area that are 10 miles or more,  and 20 mile or more away from food sources. P-Value: 1.023e-20 (correlated) & 2.617e-08 (correlated), respectively  (2015)_
 
 	 
@@ -47,7 +47,7 @@ Our findings suggest that the number of people without access to food is highest
 ## Comparison #2: Unemployment Rates vs Crime Rates
 Our second comparison evaluates unemployment rates and crime rates. We decided to pursue this comparison in order to potentially evaluate safety and living costs. You can find our data displayed in Figure 4. We found that the areas with higher unemployment matched cities with higher murder rates.
 
-![Unemployment vs murder rates](Charts/map%20(5).png)
+![Unemployment vs murder rates](sandbox/Charts/map%20(5).png)
 _Figure 4: Heatmap illustrating unemployment rates across the US against major cities with the highest murder rates  (2015)_ 
 
 ### Final Thoughts:
@@ -58,7 +58,7 @@ During our analysis, we found that areas with higher unemployment rates did show
  - Murder rate is higher on the east coast in comparison to the west coast
 
 ## Comparison #3: Rent vs Crime Rates
-![Rent vs murder rates](Charts/MurderRateVRent.png)
+![Rent vs murder rates](sandbox/Charts/MurderRateVRent.png)
 _Figure 5: Average rent versus murder rates within specific cities (2015)_
 
 Typically cities that have high crime rates have a lower average rent in the city. The rent prices tend to be cheaper since people are less willing to  move to an area with high crime rates, pushing rent down.
