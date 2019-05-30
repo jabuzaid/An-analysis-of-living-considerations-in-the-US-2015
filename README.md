@@ -4,7 +4,7 @@
 
 ## Hypothesis
 
-  This project was a look into the main variables people think of when making a big move. We focused on finding complete datasets tow work on especially since the governemnt shutdown meant that a lot of data was now inaccessible.  A lot of the infromation we found centered around food access, average rent, murder rates and unemployment. Considering this, our main question hinged on relating access/affordability to safety and work opportunities in an area 
+  This project was a look into the main variables people think of when making a big move. We focused on finding complete datasets tow work on especially since the governement shutdown meant that a lot of data was now inaccessible.  A lot of the infromation we found centered around food access, average rent, murder rates and unemployment. Considering this, our main question hinged on relating access/affordability to safety and work opportunities in an area 
 
 ## Method
 
